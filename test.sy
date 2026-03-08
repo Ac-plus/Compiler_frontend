@@ -1,0 +1,12 @@
+int a = -10;
+
+void main(){
+    int b = (a == -1) - 10;
+    int c1 = a % b + b / a;
+
+    b = (-1) * b * (-2);
+    int _b = a-(b-(c1+5)) + (a-(b*5));
+    b=a+_b;
+    int _c1 = -1 * a * 51 + a != _b;
+    return _c1 - 1 + b;
+}
