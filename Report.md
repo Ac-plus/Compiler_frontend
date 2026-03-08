@@ -1,5 +1,3 @@
-
-
 # Development and Testing Report of the C−− Language Compiler Front-End
 
 ## Abstract
@@ -439,6 +437,7 @@ Using C++ and object-oriented design allowed us to build modular components such
 * symbol table
 
 Additionally, robust **error handling mechanisms** were implemented to improve compiler reliability.
+
 
 
 
