@@ -1,5 +1,7 @@
 # TJU编译原理 C--
 
+[![Tech Report](https://img.shields.io/badge/技术报告-Read-blue)](./tech_report.md)
+
 ## 一、必要软件安装
 
 1. 安装VSCode；
@@ -49,4 +51,5 @@
 - 若使用Makefile：
 
   - 无需修改，安装`README.md`操作即可
+
 
